@@ -1,0 +1,21 @@
+1.ADD
+def add(param1, param2):
+    return(param1+param2)
+param1 = 1
+param2 = 2
+
+
+add(param1, param2)
+
+2.centuryFromYear
+def centuryFromYear(year):
+    return int((year-1)/100) + 1
+
+3.checkPalindrome
+def checkPalindrome(inputString):
+    def reverse(inputString):
+        return inputString[::-1]
+    if inputString == reverse(inputString):
+        return True
+    else:
+        return False
