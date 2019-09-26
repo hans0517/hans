@@ -19,3 +19,22 @@ def checkPalindrome(inputString):
         return True
     else:
         return False
+
+4.adjacentElementsProduct
+def adjacentElementsProduct(inputArray):
+    abc = [inputArray[i]*inputArray[i+1]
+           for i in range(0, len(inputArray)-1)]
+    return max(abc)
+    
+5.shapeArea
+def shapeArea(n):
+    sum = 1
+    for i in range(1,n):
+        sum += 4*i
+    return sum
+    
+6.makeArrayConsecutive2
+def makeArrayConsecutive2(statues):
+    statues = sorted(statues, reverse = False)
+    abc = [statues[i+1]-statues[i]-1 for i in range(0, len(statues)-1)]
+    return sum(abc)
