@@ -10,6 +10,8 @@
 * Linked List
 ## week3
 * Stack&Queue
+  *Stack先進後出(像是放盤子，先放進去的最後才拿的到)
+  *Queue先進先出(像是排隊)
 ## week4
 * Set Missmatch
 * Insertion Sort
