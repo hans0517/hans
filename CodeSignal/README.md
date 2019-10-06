@@ -5,9 +5,12 @@
 
 ## 選擇第二題
 ![image](https://github.com/hans0517/hans/blob/master/CodeSignal/images/CodeSignal-2.png)
+> 這題要選一個最有效率的選項，我選Option1，因為Option2只是把Option1拆開來複雜化，Option3不符合題目
 
 ## 選擇第三題
 ![image](https://github.com/hans0517/hans/blob/master/CodeSignal/images/CodeSignal-3.png)
+> 這題要選錯誤的選項，我認為是a == not b，Python會先處理==，所以先執行a==not的話會錯誤
 
 ## 選擇第四題
 ![image](https://github.com/hans0517/hans/blob/master/CodeSignal/images/CodeSignal-4.png)
+> 
