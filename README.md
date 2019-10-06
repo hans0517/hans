@@ -8,6 +8,9 @@
 ## week1
 * 課程介紹
 ## week2
-* LinkedList
+* Linked List
 ## week3
 * Stack&Queue
+## week4
+* Insertion Sort
+* Quick Sort
