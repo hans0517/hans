@@ -15,4 +15,4 @@
 * Set Missmatch
 * Insertion Sort
 * Quick Sort
-i=https://github.com/hans0517/hans/blob/master/images/QuickSortpic.png
+![image](https://github.com/hans0517/hans/blob/master/images/QuickSortpic.png)
