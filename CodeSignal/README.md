@@ -13,4 +13,4 @@
 
 ## 選擇第四題
 ![image](https://github.com/hans0517/hans/blob/master/CodeSignal/images/CodeSignal-4.png)
-> 
+> 比較不熟悉JAVA語言，所以上網查了一下，在JAVA中(/)運算符號用於查找兩個整數相除的商，Python除法(//)運算符中得出的結果是整數，且無條件取小一位整數，所以答案為x=15,y=-4，Python執行結果為-4，JAVA執行結果為-3。
