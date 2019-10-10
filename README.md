@@ -9,13 +9,13 @@
 ## week2
 * [Linked List](https://github.com/hans0517/hans/tree/master/week2)
 ## week3
-* Stack&Queue
+* [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3)
   * Stack先進後出(放盤子，先放進去的最後才拿的到)
   * Queue先進先出(排隊不能插隊)
 ## week4
-* Set Missmatch
-* Insertion Sort
-* Quick Sort
+* [Set Missmatch](https://github.com/hans0517/hans/tree/master/week4)
+* [Insertion Sort](https://github.com/hans0517/hans/tree/master/week4)
+* [Quick Sort](https://github.com/hans0517/hans/tree/master/week4)
   * Draw io繪製QuickSort
 
 ![image](https://github.com/hans0517/hans/blob/master/images/QuickSortpic.png)
