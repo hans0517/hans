@@ -7,7 +7,7 @@
 ## week1
 * 課程介紹
 ## week2
-* Linked List
+* [Linked List](https://github.com/hans0517/hans/tree/master/week2)
 ## week3
 * Stack&Queue
   * Stack先進後出(放盤子，先放進去的最後才拿的到)
