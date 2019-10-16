@@ -1,3 +1,4 @@
 # Stack&Queue
-* Stack
- * 功能
+## Stack
+* Stack的功能
+  * Push:把data放進Stack
