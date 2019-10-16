@@ -17,7 +17,7 @@
 * [Insertion Sort](https://github.com/hans0517/hans/tree/master/week4)
 * [Quick Sort](https://github.com/hans0517/hans/tree/master/week4)
   * [hw1:QuickSort](https://github.com/hans0517/hans/blob/master/week4/Quicksort.ipynb)
-  * [hw1:QuickSort流程圖]()
+  * [hw1:QuickSort流程圖](https://github.com/hans0517/hans/blob/master/week4/QuickSortpic100.png)
   * Draw io繪製QuickSort
 
 ![image](https://github.com/hans0517/hans/blob/master/images/QuickSortpic.png)
