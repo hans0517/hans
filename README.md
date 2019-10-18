@@ -22,4 +22,4 @@
 ## week5
 * 雙十連假
 ## week6
-* Heap
+* [Heap](https://github.com/hans0517/hans/tree/master/week6)
