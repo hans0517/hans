@@ -22,4 +22,5 @@
 ## week5
 * 雙十連假
 ## week6
+* Spyder - Debug
 * [Heap](https://github.com/hans0517/hans/tree/master/week6)
