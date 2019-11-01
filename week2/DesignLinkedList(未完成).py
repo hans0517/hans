@@ -1,20 +1,17 @@
-class ListNode:
-    def __init__(self, value):
-        self.val = value
-        self.next = None
-
 class MyLinkedList:
     def __init__(self): #初始化數據結構
         self.head = None
         self.len = 0
         
     def get(self, index: int) -> int:
-        if index>=self.len or index<0:
+        if index>=self.len-1 or index==0:
             return -1
         else:
-            cur_node = self.head
-            for _ in range(index):
+            i = 1
+            while i<=index:
+                cur_node = self.head
                 cur_node = cur_node.next
+                i+=1
                 return cur_node.val
         """
         Get the value of the index-th node in the linked list. If the index is invalid, return -1.
