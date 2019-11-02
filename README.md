@@ -26,3 +26,5 @@
 * [Heap](https://github.com/hans0517/hans/tree/master/week6)
 ## week7
 * [MergeSort](https://github.com/hans0517/hans/tree/master/week7)
+## week8
+* BinaryTree
