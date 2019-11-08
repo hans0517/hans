@@ -28,3 +28,5 @@
 * [MergeSort](https://github.com/hans0517/hans/tree/master/week7)
 ## week8
 * BinaryTree
+## week9
+* BinarySearchTree
