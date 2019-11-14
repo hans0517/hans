@@ -17,13 +17,13 @@ class MyLinkedList:
         """
         Get the value of the index-th node in the linked list. If the index is invalid, return -1.
         """
-        if index < 0 or index > self.len:
+        if index < 0 or index >= self.len:
             return -1
         else:
-            value = self.head
+            H = self.head
             for _ in range(index):
-                value = value.next
-            return value.val
+                H = H.next
+            return H
 
     def addAtHead(self, val: int) -> None:
         """
@@ -32,6 +32,7 @@ class MyLinkedList:
         new_node = Node(val)
         new_node.next = self.head
         self.head = new_node
+        self.len+=1
         
         
 
@@ -47,7 +48,7 @@ class MyLinkedList:
             else:
                 H = H.next
             H.next = new_node
-            
+            self.len+=1
 
     def addAtIndex(self, index: int, val: int) -> None:
         """
@@ -58,7 +59,7 @@ class MyLinkedList:
         if index > self.len:
             pass
         elif index == self.len:
-            addAtTail(index)
+            self.addAtTail(index)
         else:
             for i in range(self.len):
                 if i==(index-1):
@@ -66,7 +67,7 @@ class MyLinkedList:
                     H.next = new_node     
                 else:
                     H = H.next 
-        
+            self.len+=1
 
     def deleteAtIndex(self, index: int) -> None:
         """
@@ -88,7 +89,8 @@ class MyLinkedList:
                     delete_item = value.next 
                     value.next = delete_item.next
                 else:
-                    value = value.next 
+                    value = value.next
+                    self.len-=1
         
 
 
