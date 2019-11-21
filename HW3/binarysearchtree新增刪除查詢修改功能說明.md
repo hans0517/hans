@@ -3,6 +3,12 @@
 * 1.新增Node時，如果比root小要放左邊，比root大要放右邊，都要照著左小右大的原理依序比較，最後排進去，所以可以知道最左邊的葉子節點是最小的，最右邊的葉子節點是最大的
 * 2.功能:欲插入BST的數能擺放到正確位置，並不破壞BST規則(左小右大)
 ```python
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
 class Solution:
     def insert(self, root, val):
         self.root = root
