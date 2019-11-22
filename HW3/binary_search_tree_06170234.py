@@ -4,7 +4,7 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
-class Solution:
+class Solution(object):
     def insert(self, root, val):
         self.root = root
         self.val = val
