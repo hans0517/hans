@@ -109,4 +109,13 @@ class Solution(object):
 * 1.功能:可以輸入想被更改的數和要取代的數，相新的數取代掉要改的那個數
 * 2.如果有重複值，比如BST裡面有兩個3，然後想用6去修改，那麼兩個3都要改成6，因此BST會變成有兩個6
 ```python
-
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+        
+class Solution(object):
+    def modify(self, root, target, new_val):
+        pass
+```
