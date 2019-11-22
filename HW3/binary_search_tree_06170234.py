@@ -75,3 +75,6 @@ class Solution(object):
             return self.search(root.right, target)
         elif root.val > target: #如果root比target大(target比root小)，要繼續往左search
             return self.search(root.left, target)
+        
+    def modify(self, root, target, new_val):
+        pass
