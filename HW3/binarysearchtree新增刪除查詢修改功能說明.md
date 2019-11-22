@@ -34,6 +34,11 @@ class Solution:
 * 3.有一個子節點，刪除該節點(a)時，將其唯一子節點(b)取代，並將pointer指向正確位置，這時a的parent指向b
 * 4.功能:欲刪除某個節點時，能正確將刪除的節點用正確的數取代，並將pointer指向對的parent或child
 ```python
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
 class Solution:
     def find(self, parent, root, target): #find放了3個參數
         if root == None: #如果root是空的，那就會find不到，找不到直接回傳None
