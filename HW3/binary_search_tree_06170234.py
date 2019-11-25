@@ -52,6 +52,8 @@ class Solution(object):
                             parent.left = node.left
                         if node.right:
                             parent.left = node.right
+                        if node.left== None and node.right == None:
+                            parent.left = None
                         # 如果節點存在的子節點是在左，那就把左子節點接到parent的左邊
                         # 反之，存在的子節點是右，也是直接接到parent的左邊，那麼原本的node就會被取代掉
                     elif parent.right == node: #如果此節點在parent的右邊
@@ -59,10 +61,13 @@ class Solution(object):
                             parent.right = node.left
                         if node.right:
                             parent.right = node.right
+                        if node.left== None and node.right == None:
+                            parent.right = None
                         #與上面相同道理，只是把node設在parent的右子節點
             else:
                 right_min, node.right = self.del_min(node.right) #
                 node.val = right_min
+        return root
                 
     def search(self, root, target):
         self.root = root
@@ -77,5 +82,12 @@ class Solution(object):
             return self.search(root.left, target)
         
     def modify(self, root, target, new_val):
-        pass
+        if root.val == target:
+            root.val = new_val
+        elif root.left or root.right:
+            if root.left != None:
+                self.modify(root.left, target, new_val)
+            if root.right != None:
+                self.modify(root.right, target, new_val)
+        return root
 # 參考資料:放在學習歷程ipynb檔裡
