@@ -1,3 +1,4 @@
+from Crypto.Hash import MD5
 class ListNode:
     def __init__(self, val):
         self.val = val
@@ -9,7 +10,6 @@ class MyHashSet:
         self.data = [None] * capacity
     
     def ghash(self, key):
-        from Crypto.Hash import MD5
         h = MD5.new()
         h.update(key.encode("utf-8"))
         x = h.hexdigest()
