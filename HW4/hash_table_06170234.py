@@ -37,9 +37,8 @@ class MyHashSet:
         key = int(h.hexdigest(), 16)
         index = key % self.capacity
         cur_node = self.data[index]
-        if not self.contains(key):
-            return
-        elif key == self.data[index].val:
+
+        if self.data[index].val == key:
             self.data[index] = self.data[index].next
             return
         elif cur_node.next != None:
@@ -61,6 +60,8 @@ class MyHashSet:
                 return False
             elif cur_node.val != key:
                 cur_node = cur_node.next
+            while cur_node.val != key:
+                cur_node = cur_node.next
         except:
             pass
         else:
@@ -70,5 +71,5 @@ class MyHashSet:
         
         if not cur_node:
             return False
-        if cur_node.val is key:
+        if cur_node.val == key:
             return True
