@@ -40,9 +40,8 @@ class MyHashSet:
         if self.data[index].val == key:
             self.data[index] = self.data[index].next
             return
-        head = self.data[index]
-        while head.next.val != key:
-            head = head.next
+        while cur_node.next.val != key:
+            cur_node = cur_node.next
         
         
     def contains(self, key):
