@@ -9,16 +9,11 @@ class MyHashSet:
         self.capacity = capacity
         self.data = [None] * capacity
     
-    def ghash(self, key):
-        h = MD5.new()
-        h.update(key.encode("utf-8"))
-        x = h.hexdigest()
-        x = int(h.hexdigest(), 16)
-        index = x % self.capacity
-        return index
-    
     def add(self, key):
-        index = self.ghash(key)
+        h = MD5.new()
+        h.update(key.encode('utf-8'))
+        key = int(h.hexdigest(), 16)
+        index = key % self.capacity
         if self.data[index] == None:
             self.data[index] = ListNode(key)
             return
@@ -37,7 +32,10 @@ class MyHashSet:
             return
     
     def remove(self, key):
-        index = self.ghash(key)
+        h = MD5.new()
+        h.update(key.encode('utf-8'))
+        key = int(h.hexdigest(), 16)
+        index = key % self.capacity
         cur_node = self.data[index]
         if not self.contains(key):
             return
@@ -53,7 +51,10 @@ class MyHashSet:
             return
         
     def contains(self, key):
-        index = self.ghash(key)
+        h = MD5.new()
+        h.update(key.encode('utf-8'))
+        key = int(h.hexdigest(), 16)
+        index = key % self.capacity
         cur_node = self.data[index]
         try:
             if cur_node.val == None:
