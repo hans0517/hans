@@ -14,40 +14,36 @@ class MyHashSet:
         h.update(key.encode('utf-8'))
         key = int(h.hexdigest(), 16)
         index = key % self.capacity
+        cur_node = self.data[index]
         if self.data[index] == None:
             self.data[index] = ListNode(key)
             return
         if self.data[index] == key:
             return
         else:
-            cur_node = self.data[index]
-            while cur_node != None:
-                if cur_node == key:
-                    return
-                if cur_node.next == None:
-                    cur_node.next = ListNode(key)
-                    return
-                if cur_node.next != None:
-                    cur_node = cur_node.next
-            return
-    
+            if cur_node.val == key:
+                return
+            if cur_node.val != key:
+                cur_node.next = ListNode(key)
+            while cur_node.next != None:
+                cur_node = cur_node.next
+
+
     def remove(self, key):
         h = MD5.new()
         h.update(key.encode('utf-8'))
         key = int(h.hexdigest(), 16)
         index = key % self.capacity
         cur_node = self.data[index]
-
+        if cur_node==None:
+            return
         if self.data[index].val == key:
             self.data[index] = self.data[index].next
             return
-        elif cur_node.next != None:
-            while cur_node.next:
-                if cur_node.next.val == key:
-                    cur_node.next = cur_node.next.next
-                else:
-                    cur_node = cur_node.next
-            return
+        head = self.data[index]
+        while head.next.val != key:
+            head = head.next
+        
         
     def contains(self, key):
         h = MD5.new()
