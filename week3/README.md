@@ -6,6 +6,29 @@
   * Top : 回傳最上面的資料
   * IsEmpty : 確認Stack是否有資料
   * getSize : 回傳Stack裡的資料個數
+```python
+class MinStack:
+
+    def __init__(self):
+        """
+        initialize your data structure here.
+        """
+        self.len = 0
+        self.list = []
+
+    def push(self, x: int) -> None:
+        self.list.append(x)
+        self.len+=1
+
+    def pop(self) -> None:
+        self.list.pop(self.len-1)
+
+    def top(self) -> int:
+        return self.list[-1]
+
+    def getMin(self) -> int:
+        return min(self.list)
+```
 ## Queue
 * Queue的功能
   * Push(data) : 把資料從Queue的「後面」放進Queue，並更新成新的back
