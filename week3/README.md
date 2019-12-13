@@ -22,6 +22,7 @@ class MinStack:
 
     def pop(self) -> None:
         self.list.pop(self.len-1)
+        self.len-=1
 
     def top(self) -> int:
         return self.list[-1]
