@@ -1,3 +1,5 @@
+![image](https://github.com/hans0517/hans/blob/master/week7/MS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
+
 ```python
 class Solution(object):
     def merge_sort(self, nums):
