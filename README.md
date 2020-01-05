@@ -19,11 +19,11 @@
 ## Note
 | week1        | 123           | week7 | LINK | week13 | Depth-First Search |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| week2 | 123 | week8 | 123 | week14 | Minimum Spanning Tree |
-| week3 | 123 | week9 | 123 | week15 | Shortest Path |
+| week2 | [Linked List] | week8 | 123 | week14 | Minimum Spanning Tree |
+| week3 | [Stack&Queue] | week9 | 123 | week15 | Shortest Path |
 | week4 | 123 | week10 | 123 | week16 | OverView |
-| week5 | 123 | week11 | 123 | week17 | FinalTest |
-| week6 | 213 | week12 | 123 | week18 | Holiday |
+| week5 | 雙十放假 | week11 | 123 | week17 | FinalTest |
+| week6 | Spyder&HeapSort | week12 | 123 | week18 | Holiday |
 ### for跟while的差別
 * for迴圈是一種程式語言的迭代陳述，能夠讓程式碼反覆的執行。它跟其他的迴圈，如while迴圈，最大的不同，是它擁有一個迴圈計數器，或是迴圈變數。這使得For迴圈能夠知道在迭代過程中的執行順序。
 * while迴圈是一種控制流程的陳述。利用一個返回結果為布林值的表達式作為循環條件，當這個表達式的返回值為「true」時，則反覆執行循環體內的程式碼；若表達式的返回值為「false」，則不再執行循環體內的代碼，繼續執行循環體下面的代碼。
