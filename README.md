@@ -4,7 +4,7 @@
 * GITHUB語法、使用技巧教學參考 : https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e
 ## HomeWork
 | HW        | LINK           | HW | LINK |
-| ------------- |:-------------:| ------- | -- |
+| :---: | :---: | :---: | :---: |
 | HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
 | HW2 | [Merge+HeapSort](https://github.com/hans0517/hans/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
 | HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
