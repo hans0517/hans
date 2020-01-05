@@ -18,7 +18,7 @@
 | HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
 ## Note
 | week1        | 123           | week7 | LINK | week13 | Depth-First Search |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | week2 | 123 | week8 | 123 | week14 | Minimum Spanning Tree |
 | week3 | 123 | week9 | 123 | week15 | Shortest Path |
 | week4 | 123 | week10 | 123 | week16 | OverView |
