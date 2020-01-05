@@ -2,6 +2,7 @@
 =======================================
 * 歡迎來到我的Github，記載我的上課及回家的練習程式碼
 * GITHUB語法、使用技巧教學參考 : https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e
+## [CODESIGNAL](https://github.com/hans0517/hans/tree/master/Codesignal)
 ## HomeWork
 | HW        | LINK           | HW | LINK |
 | :---: | :---: | :---: | :---: |
@@ -11,7 +12,6 @@
 ### for跟while的差別
 * for迴圈是一種程式語言的迭代陳述，能夠讓程式碼反覆的執行。它跟其他的迴圈，如while迴圈，最大的不同，是它擁有一個迴圈計數器，或是迴圈變數。這使得For迴圈能夠知道在迭代過程中的執行順序。
 * while迴圈是一種控制流程的陳述。利用一個返回結果為布林值的表達式作為循環條件，當這個表達式的返回值為「true」時，則反覆執行循環體內的程式碼；若表達式的返回值為「false」，則不再執行循環體內的代碼，繼續執行循環體下面的代碼。
-## [CODESIGNAL](https://github.com/hans0517/hans/tree/master/CodeSignal)
 * 剛開學接觸這堂課時先從CodeSignal開始練習
   * [codesignal pratice](https://github.com/hans0517/hans/tree/master/CodeSignal)
 ## week1
