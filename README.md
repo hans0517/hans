@@ -6,7 +6,7 @@
 | HW        | LINK           | HW | LINK |
 | :---: | :---: | :---: | :---: |
 | HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
-| HW2 | [Merge+HeapSort](https://github.com/hans0517/hans/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
+| HW2 | [MergeSort+HeapSort](https://github.com/hans0517/hans/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
 | HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
 ### for跟while的差別
 * for迴圈是一種程式語言的迭代陳述，能夠讓程式碼反覆的執行。它跟其他的迴圈，如while迴圈，最大的不同，是它擁有一個迴圈計數器，或是迴圈變數。這使得For迴圈能夠知道在迭代過程中的執行順序。
