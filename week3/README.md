@@ -1,4 +1,6 @@
 # Stack&Queue
+* Stack先進後出(放盤子，先放進去的最後才拿的到)
+* Queue先進先出(排隊不能插隊)
 ## Stack
 * Stack的功能
   * Push : 把data放進Stack
