@@ -21,7 +21,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | week2 | [Linked List] | week8 | 123 | week14 | Minimum Spanning Tree |
 | week3 | [Stack&Queue] | week9 | 123 | week15 | Shortest Path |
-| week4 | Set Missmatch&Insertion Sort&Quick Sort| week10 | 123 | week16 | OverView |
+| week4 | Set Missmatch&Insertion Sort&
+Quick Sort| week10 | 123 | week16 | OverView |
 | week5 | 雙十放假 | week11 | 123 | week17 | FinalTest |
 | week6 | Spyder&HeapSort | week12 | 123 | week18 | Holiday |
 ### for跟while的差別
