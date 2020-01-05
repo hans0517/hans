@@ -21,6 +21,12 @@
 * while迴圈是一種控制流程的陳述。利用一個返回結果為布林值的表達式作為循環條件，當這個表達式的返回值為「true」時，則反覆執行循環體內的程式碼；若表達式的返回值為「false」，則不再執行循環體內的代碼，繼續執行循環體下面的代碼。
 * 剛開學接觸這堂課時先從CodeSignal開始練習
   * [codesignal pratice](https://github.com/hans0517/hans/tree/master/CodeSignal)
+  
+| HW        | LINK           | HW | LINK |
+| :---: | :---: | :---: | :---: |
+| HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
+| :---: | :---: | :---: | :---: |
+| HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
 ## week1
 * 課程介紹
 ## week2
