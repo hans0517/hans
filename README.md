@@ -17,8 +17,9 @@
 | HW2 | [MergeSort+HeapSort](https://github.com/hans0517/hans/tree/master/HW2) | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
 | HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
 ## Note
-| week1        | 課堂介紹           | week10 | RedBlackTree |
+| 週別        | 課程內容           | 週別 | 課程內容 |
 | :---: | :---: | :---: | :---: |
+| week1 | 課堂介紹 | week10 | RedBlackTree |
 | week2 | [Linked List] | week11 | Hash Table | BinaryTree |
 | week3 | [Stack&Queue] | week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
 | week4 | Set Missmatch&Insertion Sort&Quick Sort| week13 | Depth-First Search |
