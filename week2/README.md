@@ -15,3 +15,6 @@
   * 把值為val的節點加入到指定位置index
 * **deleteAtIndex(index)**
   * 刪除指定index節點之值
+# LinkedList的用處
+* 新增/刪除資料較Array簡單，只要對O(1)個node(所有與欲新增/刪除的node有pointer相連的node)調整pointer即可，不需要如同Array般搬動其餘元素。
+* 儲存空間不會被浪費掉
