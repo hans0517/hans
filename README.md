@@ -29,8 +29,6 @@
 | week7 | MergeSort | week16 | OverView |
 | week8 | BinaryTree | week17 | FinalTest |
 | week9 | BinarySearchTree | week18 | Holiday |
-## week2
-* Linked list(連結串列)是一種常見的資料結構，其使用node(節點)來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以NULL來代表Linked list的終點
 ## 課程心得
 ### for跟while的差別
 * for迴圈是一種程式語言的迭代陳述，能夠讓程式碼反覆的執行。它跟其他的迴圈，如while迴圈，最大的不同，是它擁有一個迴圈計數器，或是迴圈變數。這使得For迴圈能夠知道在迭代過程中的執行順序。
