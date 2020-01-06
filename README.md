@@ -7,9 +7,9 @@
 * 系級:巨資三B
 * 興趣:逛街、看電影
 ## Pratice
-| CodeSignal | LeetCode |
-| :---: | :---: |
-| [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/hans0517/hans/tree/master/Leetcode) |
+| CodeSignal | LeetCode | CS50 |
+| :---: | :---: | :---: |
+| [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/hans0517/hans/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
 ## HomeWork
 | HW        | LINK           | HW | LINK |
 | :---: | :---: | :---: | :---: |
