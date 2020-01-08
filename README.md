@@ -25,10 +25,10 @@
 | week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
 | week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | week13 | Depth-First Search |
 | week5 | 雙十放假 | week14 | Minimum Spanning Tree |
-| week6 | Spyder&HeapSort | week15 | Shortest Path |
-| week7 | MergeSort | week16 | OverView |
-| week8 | BinaryTree | week17 | FinalTest |
-| week9 | BinarySearchTree | week18 | Holiday |
+| week6 | [Spyder&HeapSort](https://github.com/hans0517/hans/tree/master/week6) | week15 | Shortest Path |
+| week7 | [MergeSort](https://github.com/hans0517/hans/tree/master/week7) | week16 | OverView |
+| week8 | [BinaryTree](https://github.com/hans0517/hans/tree/master/week9) | week17 | FinalTest |
+| week9 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/week9) | week18 | Holiday |
 ## 課程心得
 ### for跟while的差別
 * for迴圈是一種程式語言的迭代陳述，能夠讓程式碼反覆的執行。它跟其他的迴圈，如while迴圈，最大的不同，是它擁有一個迴圈計數器，或是迴圈變數。這使得For迴圈能夠知道在迭代過程中的執行順序。
