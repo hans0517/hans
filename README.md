@@ -2,16 +2,16 @@
 =======================================
 * 歡迎來到我的Github，記載我的上課及回家的練習程式碼
 * GITHUB語法、使用技巧教學參考 : https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e
-## About Me
+## ⭐️About Me
 * 姓名 : 謝秉翰
 * 學校 : 東吳大學
 * 系級 : 巨資三B
 * 興趣 : 逛街、看電影
-## Pratice
+## ☘️Pratice
 | CodeSignal | LeetCode | CS50 |
 | :---: | :---: | :---: |
 | [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/hans0517/hans/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
-## HomeWork
+## ❄️HomeWork
 | HW        | LINK           | HW | LINK |
 | :---: | :---: | :---: | :---: |
 | HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) | HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
