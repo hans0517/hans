@@ -1,8 +1,10 @@
 # Merge Sort
 [學習歷程-ipynb檔連結](https://github.com/hans0517/hans/blob/master/HW2/mergesort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
 * Merge Sort屬於Divide and Conquer演算法，把問題先拆解(divide)成子問題，並在逐一處理子問題後，將子問題的結果合併(conquer)，最初先將數列分成兩半，再一直分到剩兩個兩個一組，如果總數為奇數，則剩的數自己一組，兩個兩個比大小，小的放左，大的放右，合併後比較，'依序'比較，比到最後完成排序
+
 ![image](https://github.com/hans0517/hans/blob/master/week7/MS%E6%B5%81%E7%A8%8B%E5%9C%96.jpg)
 
+## My Merge Sort Code
 ```python
 class Solution(object):
     def merge_sort(self, nums):
