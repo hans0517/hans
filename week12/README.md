@@ -41,7 +41,7 @@ class Graph:
 * 使用Stack
 * 時間複雜度為O(V+E)，V是節點數目，E是圖中邊的數目
 ## DFS課堂練習
-![image](https://github.com/hans0517/hans/blob/master/images/shortestpath.jpg)
+![image](https://github.com/hans0517/hans/blob/master/images/DFS流程圖.jpg)
 ## DFS code
 ```python
 from collections import defaultdict
