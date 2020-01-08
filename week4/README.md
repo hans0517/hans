@@ -13,3 +13,4 @@
     * 當資料的順序恰好為由大到小時，第i回合需比i次
   * Average : Ο(n2)
     * 第n筆資料，平均比較n/2次
+![image](https://github.com/hans0517/hans/blob/master/images/Insertion%20Sort.png)
