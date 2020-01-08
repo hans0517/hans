@@ -23,9 +23,9 @@
 | week1 | 課堂介紹 | week10 | RedBlackTree |
 | week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | week11 | [Hash Table](https://github.com/hans0517/hans/tree/master/week11) | BinaryTree |
 | week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | week12 | [Pair Programming&Breadth-First Search](https://github.com/hans0517/hans/tree/master/week12) | BinarySearchTree |
-| week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | week13 | Depth-First Search |
-| week5 | 雙十放假 | week14 | Minimum Spanning Tree |
-| week6 | [Spyder&HeapSort](https://github.com/hans0517/hans/tree/master/week6) | week15 | Shortest Path |
+| week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | week13 | [Depth-First Search](https://github.com/hans0517/hans/tree/master/week12) |
+| week5 | 雙十放假 | week14 | [Minimum Spanning Tree](https://github.com/hans0517/hans/tree/master/week14) |
+| week6 | [Spyder&HeapSort](https://github.com/hans0517/hans/tree/master/week6) | week15 | [Shortest Path](https://github.com/hans0517/hans/tree/master/week14) |
 | week7 | [MergeSort](https://github.com/hans0517/hans/tree/master/week7) | week16 | OverView |
 | week8 | [BinaryTree](https://github.com/hans0517/hans/tree/master/week9) | week17 | FinalTest |
 | week9 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/week9) | week18 | Holiday |
