@@ -2,11 +2,11 @@
 * [學習歷程-ipynb檔連結](https://github.com/hans0517/hans/blob/master/HW2/heapsort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E6%96%87%E5%AD%97%E8%AA%AA%E6%98%8E.ipynb)
 * 學習網站 : https://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html
 * 若以升序排序說明，把陣列轉換成最大堆積(Max-Heap Heap)，這是一種滿足最大堆積性質(Max-Heap Property)的二元樹：對於除了根之外的每個節點i, A[parent(i)] ≥ A[i]。重複從最大堆積取出數值最大的結點(把根結點和最後一個結點交換，把交換後的最後一個結點移出堆)，並讓殘餘的堆積維持最大堆積性質。
+* 理論上HeapSort比MergeSort的速度還要快，雖然時間複雜度都為O(NlogN)，但是HeapSort是in-place的sorting，不耗費額外的記憶體， MergeSort則是每次方法調用的時候都需要記憶體的位置，所以HeapSort會比較快
 * 時間複雜度
   * O(NlogN)
 * 穩定性
   * Unstable Sort
-* 理論上HeapSort比MergeSort的速度還要快，雖然時間複雜度都為O(NlogN)，但是HeapSort是in-place的sorting，不耗費額外的記憶體， MergeSort則是每次方法調用的時候都需要記憶體的位置，所以HeapSort會比較快
 ![image](https://github.com/hans0517/hans/blob/master/week6/heapsort.png)
 ```python
 class Solution(object):
