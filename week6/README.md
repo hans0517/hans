@@ -7,6 +7,7 @@
   * O(NlogN)
 * 穩定性
   * Unstable Sort
+  
 ![image](https://github.com/hans0517/hans/blob/master/week6/heapsort.png)
 ```python
 class Solution(object):
