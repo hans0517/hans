@@ -21,8 +21,8 @@
 | 週別        | 課程內容           | 週別 | 課程內容 |
 | :---: | :---: | :---: | :---: |
 | week1 | 課堂介紹 | week10 | RedBlackTree |
-| week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | week11 | Hash Table | BinaryTree |
-| week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
+| week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | week11 | [Hash Table](https://github.com/hans0517/hans/tree/master/week11) | BinaryTree |
+| week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | week12 | [Pair Programming&Breadth-First Search](https://github.com/hans0517/hans/tree/master/week12) | BinarySearchTree |
 | week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | week13 | Depth-First Search |
 | week5 | 雙十放假 | week14 | Minimum Spanning Tree |
 | week6 | [Spyder&HeapSort](https://github.com/hans0517/hans/tree/master/week6) | week15 | Shortest Path |
