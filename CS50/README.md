@@ -9,3 +9,5 @@
   * Notes
     * http://cdn.cs50.net/2013/fall/lectures/7/m/notes7m/notes7m.html
     * http://cdn.cs50.net/2013/fall/lectures/7/w/notes7w/notes7w.html
+## week8
+  * week8 Youtube : https://www.youtube.com/watch?v=9qvt6MwBKZQ 、 https://www.youtube.com/watch?v=ihmHDZKOkA8
