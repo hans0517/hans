@@ -23,3 +23,5 @@
 假如隊列只有8個位置。現在8個位置都有人排隊。第一個人買完後，又來了一個人排隊。一般的做法是所有的人前移一個位置，留出最後一個位置給新來的人。更巧妙的做法，可以新來的人直接站在第一個位置。只要第二個人的位置變成隊列的開頭就行了。
 
 ![image](https://github.com/hans0517/hans/blob/master/images/CS50-5.png)
+
+> Reference:https://blog.csdn.net/sinat_36651044/article/details/77918498
