@@ -1,5 +1,6 @@
 ## Array
 前面課程中提到過。比如int a[8];語句。定義一個能存儲8個整型數據的數組a，系統會為數組a 分配一片連續的存儲空間（例如，1201~1232），數組中元素按下標從小到大排列，每個元素佔用相應的4個字節。另外，數組名a是常量，代表數組佔用存儲空間的起始地址
+
 ![image](https://github.com/hans0517/hans/blob/master/images/CS50-1.png)
 
 ## Linked List
