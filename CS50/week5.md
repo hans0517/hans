@@ -15,4 +15,10 @@
 ![image](https://github.com/hans0517/hans/blob/master/images/CS50-3.png)
 ![image](https://github.com/hans0517/hans/blob/master/images/CS50-4.png)
 
-##
+## Stack
+每次增加元素會放在棧頂，每次也只能取出棧頂的元素。影片中有兩個例子，顯示餐廳的托盤，一大堆托盤，放托盤時，只能放在最上面。拿托盤時，也只能拿最上面的。還有疊衣服到箱子裡，每次放衣服放在最上面，拿衣服也只能拿最上面的，一直只能穿一套衣服。
+
+## Queue
+假如隊列只有8個位置。現在8個位置都有人排隊。第一個人買完後，又來了一個人排隊。一般的做法是所有的人前移一個位置，留出最後一個位置給新來的人。更巧妙的做法，可以新來的人直接站在第一個位置。只要第二個人的位置變成隊列的開頭就行了。
+
+![image](https://github.com/hans0517/hans/blob/master/images/CS50-5.png)
