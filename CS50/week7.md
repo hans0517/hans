@@ -14,14 +14,17 @@ Chaining的概念
 
 ## Insert：
 先利用Hash Function取得Table的index。
+
 接著，只要在每一個slot的list之front加入item，即可保證在O(1)的時間複雜度完成。
 
 ## Search：
 
 先利用Hash Function取得Table的index。
+
 再利用Linked list的traversal尋找item。
 
 ## Delete：
 
 先利用Hash Function取得Table的index。
+
 再利用Linked list的traversal尋找欲刪除的item。
